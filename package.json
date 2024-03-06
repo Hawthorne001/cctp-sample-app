@@ -27,7 +27,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
-    "@mui/icons-material": "^5.8.4",
+    "@mui/icons-material": "^5.15.7",
     "@mui/lab": "^5.0.0-alpha.98",
     "@mui/material": "^5.10.0",
     "@web3-react/core": "^6.1.9",
